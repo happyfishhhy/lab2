@@ -1,2 +1,2 @@
 # lab2
-make
+use "Make" to compile the files
